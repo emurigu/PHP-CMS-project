@@ -1,0 +1,20 @@
+{
+  "name": "eddie/cms",
+  "description": "Blog Project",
+  "require": {
+    "phpmailer/phpmailer": "^6.0",
+    "pusher/pusher-php-server": "^4.0",
+    "vlucas/phpdotenv": "^3.4"
+  },
+  "autoload": {
+    "classmap": [
+      "classes"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Eddie Murigu",
+      "email": "ewamais@yahoo.com"
+    }
+  ]
+}
